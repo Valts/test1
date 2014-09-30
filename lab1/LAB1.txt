@@ -1,1 +1,6 @@
 Initial text
+<<<<<<< HEAD
+=======
+Additional text
+Additional text from develop
+>>>>>>> develop
